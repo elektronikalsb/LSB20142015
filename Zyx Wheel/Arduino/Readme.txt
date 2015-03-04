@@ -1,0 +1,3 @@
+ Atencion:
+
+ En este documento utilizaremos el entorno de programación específicamente creado para Arduino ya que es con el que hemos realizado todas las pruebas y con el que mas familiarizados estamos. En este archivo, se encuentra el programa que hemos diseñado para el ZYX Wheel. La función principal de este programa consiste en leer los datos mandados por un acelerometro y reaccionar en base a estos datos otorgando la velocidad y dirección adecuadas al motor. Tambien se pretende medir el nivel de carga y mandar los datos por bluetooth para que el usuario pueda visualizar desde su dispositivo movil dicho nivel de carga.Ademas, se encenderan tres LED s para visualizar el nivel de carga sin necesidad de movil. 
