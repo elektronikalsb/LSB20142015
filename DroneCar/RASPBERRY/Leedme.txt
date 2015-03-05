@@ -1,0 +1,3 @@
+Programacion en python que se encarga de intermediar entre el mando (telefono movil) y la placa electronica que ejecuta
+los comandos. La comunicacion con el mando es via wifi y la comunicacion con la placa, via puerto serie. Se encarga de
+ejecutar la camara.

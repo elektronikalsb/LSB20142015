@@ -1,0 +1,2 @@
+Programacion en arduino que se encarga de interpretar y ejecutar los comandos que le llegan. Se encarga de activar los
+motores, interpretar los sensores, encender y apagar luces y reproducir la musica.
